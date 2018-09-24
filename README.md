@@ -1,1 +1,1 @@
-# Just Another Rapidly Versioned Integration System
+# Just Another Really Vexatious Integration System
